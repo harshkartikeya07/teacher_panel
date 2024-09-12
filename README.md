@@ -1,5 +1,6 @@
 # teacher_panel
 Step 1 Start xampp server and start both module mysql and apache
+
 Step 2 Create Database in locally in xampp by name teacher_portal
 RUn Command Line CREATE DATABASE teacher_portal; in console of xampp
 
